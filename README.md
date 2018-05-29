@@ -6,4 +6,4 @@ NOTE : Need an API Key to access.
 
 Dependencies: Dependecies: Run the "requirements.txt" file using "pip3 install -r requirments.txt"
 
-Check: curl “127.0.0.1:5000/?q=" or Open your favourite browser and enter 127.0.0.1:5000/?q=
+Check: curl “127.0.0.1:5000/?q=<pnrnum>" or Open your favourite browser and enter 127.0.0.1:5000/?q=<pnrnum>
